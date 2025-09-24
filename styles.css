@@ -1,0 +1,68 @@
+
+.navbarburger{
+    padding-left: 0%;
+    position: relative;
+}
+
+#navbarNav{
+    margin-left: 0%;
+}
+
+.d-block-w-100{
+    padding-left: 30%;
+    width: 50%;
+    height: 10%;
+}
+
+.footer_container{
+    position: fixed;
+    align-items: center;
+}
+
+form {
+    background-color: whitesmoke;
+    border-style: groove;
+    border-width: 5px;
+    width: 55%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+
+body {
+    background-color: lightblue;
+}
+
+* {
+    font-family: 'Franklin Gothic Medium';
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#h1 {
+    width: 10%;
+    font-size: 30px;
+}
+
+#head {
+    background-color: blue;
+    color: white;
+}
